@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there I am Anurag Kushwah 👋
+
+# 💫 About Me:
+### Aspiring Full Stack Developer with a passion for learning and a drive to create innovative solutions from the ground up.
+
+<br>
+Portfolio :-
+
+
+## 🌐 Socials:
+<a href="https://www.linkedin.com/in/anurag-kushwah-b8687124b"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
+<a href="https://twitter.com/anuraag0x"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='linkedin' height='40'></a>
+<a href="https://www.facebook.com/anurag.kushwah.338211/about/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='linkedin' height='40'></a>
+
 
 <!--
 **anurag0x/anurag0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
