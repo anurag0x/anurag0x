@@ -30,6 +30,8 @@ I am currently working at **Animall** as a Software Engineer on the backend for 
 
 I've worked on microservices, API gateways and event-driven systems, and lately on **AI/LLM applications**: document ingestion, embeddings, vector search, RAG and LLM observability.
 
+📍 Gurugram, Haryana &nbsp;•&nbsp; 🏡 From Amjhera, Dhar (MP)
+
 🎓 B.Sc. Computer Science, DAVV Indore &nbsp;•&nbsp; Masai School alum
 
 </td>
@@ -49,12 +51,12 @@ I've worked on microservices, API gateways and event-driven systems, and lately 
 
 ### 💼 Experience
 
-| Role | Company | When |
-|---|---|---|
-| **Software Engineer** | **Animall** | Nov 2026 – Present |
-| Software Development Engineer | Kenpath Technologies | Aug 2026 – Nov 2026 |
-| Software Development Engineer I | Kapiva Ayurveda | May 2024 – Jul 2026 |
-| Software Developer | Masai School | Apr 2023 – Apr 2024 |
+| Role | Company |
+|---|---|
+| **Software Engineer** | **Animall** (current) |
+| Software Development Engineer | Kenpath Technologies |
+| Software Development Engineer I | Kapiva Ayurveda |
+| Software Developer | Masai School |
 
 ### 🌟 Highlights
 
