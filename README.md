@@ -1,104 +1,80 @@
-### Hi there, I'm Anuraag Kushwah 👋
+<div align="center">
 
-💻 Backend-focused Full Stack Developer | Node.js • PostgreSQL • Redis • React • Flutter  
-📍 Software Engineer @ **Animall**, building backend systems for India's dairy farmers  
-🎓 Masai alum • 📌 Dhar, Madhya Pradesh  
-🌱 Always learning and building cool stuff with clean, efficient code.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=170&section=header&text=Anuraag%20Kushwah&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%40%20Animall&descAlignY=58&descSize=18" width="100%" />
 
----
+<a href="https://github.com/anurag0x">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Backend+systems+for+India's+dairy+farmers+%F0%9F%90%84;Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+React;Real-time+calls%2C+chat+and+notification+pipelines;Exploring+AI-powered+products+%26+automation" alt="Typing intro" />
+</a>
 
-### 🚀 About Me
+<p>
+  <a href="https://anurag0x.github.io/"><img src="https://img.shields.io/badge/Portfolio-7aa2f7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anuraagkushwah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/anuraag0x"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://www.facebook.com/anurag.kushwah.338211/about/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=anurag0x&color=7aa2f7&style=flat-square&label=Profile+views" />
+</p>
 
-I recently joined **Animall** as a Software Engineer, where I work on the backend for the Animall Bhai app: Node.js/Express APIs on PostgreSQL and Redis.
-
-What I've been building lately:
-- 📞 Real-time voice calling and chat with Agora and Socket.IO, scaled across pods with Redis
-- 🔔 Push-notification and IVR (Exotel) campaign pipelines with Google Cloud Tasks and cron schedulers
-- 🤖 AI-powered support and chat features using the Anthropic (Claude) API
-
-Before Animall, I was a Software Developer at **Kapiva**, building scalable e-commerce platforms and backend systems (Node.js, MongoDB, Next.js, Shopify / Liquid), and helped launch Kapiva's UK D2C store.
-
-I enjoy solving real-world engineering problems, building reliable systems, and exploring AI-powered products & automation.
-
-📫 Portfolio → [anurag0x.github.io](https://anurag0x.github.io/)
+</div>
 
 ---
 
-### 🌐 Connect with Me
+<table>
+<tr>
+<td width="55%" valign="top">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuraagkushwah)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anuraag0x)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anurag.kushwah.338211/about/)
+### 🧑‍💻 About me
 
----
+I recently joined **Animall** as a Software Engineer, working on the backend for the Animall Bhai app: Node.js/Express APIs on PostgreSQL and Redis.
 
-### 🛠️ Tech Stack
+Before that I was a Software Developer at **Kapiva**, building scalable e-commerce platforms and backend systems, and helped launch Kapiva's UK D2C store.
 
-**Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+🎓 Masai alum &nbsp;•&nbsp; 📍 Dhar, Madhya Pradesh
 
-**Frontend**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)  
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
-![Chakra UI](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+</td>
+<td width="45%" valign="top">
 
-**Backend & Tools**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### ⚡ What I'm building
 
-**Dev Tools**  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)  
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+- 📞 Real-time voice calls & chat with **Agora** and **Socket.IO**
+- 🔔 Push-notification and **Exotel IVR** campaign pipelines on **Cloud Tasks**
+- 🤖 AI-powered support features with the **Claude API**
+- 🛒 Previously: Shopify (Liquid), Next.js storefronts, Flutter apps
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📈 GitHub Stats
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=anurag0x&theme=tokyonight&show_icons=true)  
-![](https://streak-stats.demolab.com/?user=anurag0x&theme=tokyonight)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag0x&theme=tokyonight&layout=compact)
+### 🛠️ Tech stack
 
----
+**Languages & frontend**
 
-### 🏆 GitHub Trophies
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,bootstrap,flutter,dart&theme=dark" />
 
-![](https://github-profile-trophy.vercel.app/?username=anurag0x&theme=radical&margin-w=10&no-bg=true)
+**Backend & data**
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,mongodb,mysql,firebase&theme=dark" />
 
-### 📜 Dev Quote
+**Cloud & tools**
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,git,github,vercel,cloudflare,postman,figma&theme=dark" />
 
----
-
-### 📊 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=anurag0x&limit=5&theme=matrix&combine_all_yearly_contributions=true)
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=anurag0x&icon=0&color=8)](https://visitcount.itsvg.in)
+<div align="center">
 
+### 📊 GitHub at a glance
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anurag0x&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag0x&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" />
+
+<img src="https://streak-stats.demolab.com/?user=anurag0x&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" width="100%" />
+
+</div>
