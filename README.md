@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=170&section=header&text=Anuraag%20Kushwah&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%40%20Animall&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/anurag0x">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Backend+systems+for+India's+dairy+farmers+%F0%9F%90%84;Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+React;Real-time+calls%2C+chat+and+notification+pipelines;Exploring+AI-powered+products+%26+automation" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Backend+systems+for+India's+dairy+farmers+%F0%9F%90%84;3%2B+years+building+scalable+backends;Node.js+%E2%80%A2+Python+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+Kafka;Real-time+calls%2C+chat+and+notification+pipelines;AI%2FLLM%3A+RAG%2C+embeddings%2C+vector+search" alt="Typing intro" />
 </a>
 
 <p>
@@ -24,25 +24,45 @@
 
 ### 🧑‍💻 About me
 
-I am currently working at **Animall** as a Software Engineer on the backend for the Animall Bhai app: Node.js/Express APIs on PostgreSQL and Redis.
+Software engineer with **3+ years** of experience building scalable backend and full-stack systems with Node.js, TypeScript, Python, PostgreSQL, MongoDB, Redis and Kafka.
 
-Before that I was a Software Developer at **Kapiva**, building scalable e-commerce platforms and backend systems, and helped launch Kapiva's UK D2C store.
+I am currently working at **Animall** as a Software Engineer on the backend for the Animall Bhai app.
 
-🎓 Masai alum &nbsp;•&nbsp; 📍 Dhar, Madhya Pradesh
+I've worked on microservices, API gateways and event-driven systems, and lately on **AI/LLM applications**: document ingestion, embeddings, vector search, RAG and LLM observability.
+
+🎓 B.Sc. Computer Science, DAVV Indore &nbsp;•&nbsp; Masai School alum
 
 </td>
 <td width="45%" valign="top">
 
-### ⚡ What I'm building
+### ⚡ What I'm building at Animall
 
 - 📞 Real-time voice calls & chat with **Agora** and **Socket.IO**
 - 🔔 Push-notification and **Exotel IVR** campaign pipelines on **Cloud Tasks**
 - 🤖 AI-powered support features with the **Claude API**
-- 🛒 Previously: Shopify (Liquid), Next.js storefronts, Flutter apps
 
 </td>
 </tr>
 </table>
+
+---
+
+### 💼 Experience
+
+| Role | Company | When |
+|---|---|---|
+| **Software Engineer** | **Animall** | Nov 2026 – Present |
+| Software Development Engineer | Kenpath Technologies | Aug 2026 – Nov 2026 |
+| Software Development Engineer I | Kapiva Ayurveda | May 2024 – Jul 2026 |
+| Software Developer | Masai School | Apr 2023 – Apr 2024 |
+
+### 🌟 Highlights
+
+- 📄 **AI document ingestion pipeline** (Kenpath): Python pipeline for PDF extraction, translation, chunking and embeddings, indexed in **Qdrant** for RAG, traced with **Langfuse**
+- 🩺 **CareStudio telehealth platform** (Kapiva): API gateway over 6+ microservices, prescription engine, and **Kafka** event flows for 10,000+ consultations/month
+- 🎧 **Nidaan** (Kapiva): LLM analysis of doctor–patient call recordings into structured quality feedback
+- ⚡ Cut API latency by **25–35%** with Redis caching and query optimization; built **Microsoft Entra ID SSO**, JWT and RBAC across doctor, agent and admin apps
+- 🛒 Checkout and order services handling **1,000+ orders/day**, and helped launch Kapiva's UK D2C store
 
 ---
 
@@ -52,15 +72,15 @@ Before that I was a Software Developer at **Kapiva**, building scalable e-commer
 
 **Languages & frontend**
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,bootstrap,flutter,dart&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,redux,tailwind,bootstrap,flutter,dart&theme=dark" />
 
 **Backend & data**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,mongodb,mysql,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,redis,mongodb,mysql,kafka,firebase&theme=dark" />
 
 **Cloud & tools**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,git,github,vercel,cloudflare,postman,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,githubactions,git,github,vercel,cloudflare,postman,figma&theme=dark" />
 
 </div>
 
