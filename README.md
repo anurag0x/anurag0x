@@ -24,7 +24,7 @@
 
 ### 🧑‍💻 About me
 
-I recently joined **Animall** as a Software Engineer, working on the backend for the Animall Bhai app: Node.js/Express APIs on PostgreSQL and Redis.
+I am currently working at **Animall** as a Software Engineer on the backend for the Animall Bhai app: Node.js/Express APIs on PostgreSQL and Redis.
 
 Before that I was a Software Developer at **Kapiva**, building scalable e-commerce platforms and backend systems, and helped launch Kapiva's UK D2C store.
 
