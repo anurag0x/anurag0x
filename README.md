@@ -1,6 +1,6 @@
 ### Hi there, I'm Anuraag Kushwah 👋
 
-💻 Backend-focused Full Stack Developer | Node.js • PostgreSQL • Redis • Kubernetes • React • Flutter  
+💻 Backend-focused Full Stack Developer | Node.js • PostgreSQL • Redis • React • Flutter  
 📍 Software Engineer @ **Animall**, building backend systems for India's dairy farmers  
 🎓 Masai alum • 📌 Dhar, Madhya Pradesh  
 🌱 Always learning and building cool stuff with clean, efficient code.
@@ -9,13 +9,12 @@
 
 ### 🚀 About Me
 
-I recently joined **Animall** as a Software Engineer, where I work on the backend for the Animall Bhai app: Node.js/Express APIs on PostgreSQL and Redis, deployed to Kubernetes with Helm.
+I recently joined **Animall** as a Software Engineer, where I work on the backend for the Animall Bhai app: Node.js/Express APIs on PostgreSQL and Redis.
 
 What I've been building lately:
 - 📞 Real-time voice calling and chat with Agora and Socket.IO, scaled across pods with Redis
 - 🔔 Push-notification and IVR (Exotel) campaign pipelines with Google Cloud Tasks and cron schedulers
 - 🤖 AI-powered support and chat features using the Anthropic (Claude) API
-- ☁️ CI/CD to AWS EKS with GitHub Actions and Helm
 
 Before Animall, I was a Software Developer at **Kapiva**, building scalable e-commerce platforms and backend systems (Node.js, MongoDB, Next.js, Shopify / Liquid), and helped launch Kapiva's UK D2C store.
 
@@ -63,8 +62,6 @@ I enjoy solving real-world engineering problems, building reliable systems, and 
 
 **Dev Tools**  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Helm](https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)  
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
